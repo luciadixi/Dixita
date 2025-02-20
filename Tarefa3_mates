@@ -1,0 +1,10 @@
+v1 = 34.6745
+v2 = 55.1209
+v3 = 66.3387
+import math
+print (math.sqrt(25))
+menos = 9
+print (math.sqrt(menos))
+√34.6745
+66.3387
+PI = 3.141592
