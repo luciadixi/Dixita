@@ -1,0 +1,6 @@
+resp = input("Como é o teu nome?")
+print("Que nome máis bonito")
+print("Ti es unha amable persoa")
+print("Vales moitísimo")
+print("Non hay ninguén máis lista ca", resp)
+print("e moi bo,resp,o mundo adórate")
