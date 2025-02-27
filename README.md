@@ -1,2 +1,2 @@
 # Dixita
-Aquí voy a publicar algunos de los trabajos que realizo en las clases de dixitalización.
+Aquí voy a publicaré algunos de los trabajos que realizo en las clases de dixitalización.
