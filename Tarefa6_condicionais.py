@@ -16,4 +16,4 @@ persoa = ("Cal é o teu número favorito?")
 if(persoa == "Cal é o teu número favorito?"):
     print("O meu número favorito é o 6"  ,profesora)
     else:
-
+    
