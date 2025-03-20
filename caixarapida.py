@@ -2,11 +2,6 @@
 
 print("benvidos ao supermercado")
 
-
-# Nome de ficheiro: caixarapida.py
-# Autor: recepcionista da caixa
-
-
 print("benvido ao noso supermercado!, persoa")
 
 else: 
